@@ -7,20 +7,20 @@ A lite wrapper for Ersilia compound embeddings model.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ersilia-os/compound-embedding.git
-cd compound-embedding/lite
+git clone https://github.com/ersilia-os/compound-embedding-lite.git
+cd compound-embedding-lite
 ```
 
 ### 2. Install the package with pip
 
 ```bash
-pip install -e .
+pip install .
 ```
 
 or if you have a GPU
 
 ```bash
-pip install -e .[gpu]
+pip install .[gpu]
 ```
 
 ### 3. Programatically generate embeddings
