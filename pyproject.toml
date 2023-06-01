@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "eosce"
+name = "eosce-lite"
 version = "0.1.0"
-description = "Ersilia Cpound embeddings"
-authors = ["Ankur Kumar <ank@leoank.me>"]
+description = "Ersilia Compound embeddings"
+authors = ["Ersilia <hello@ersilia.io>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
